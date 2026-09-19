@@ -3,8 +3,8 @@ name = "LootMidgetWorld"
 version = "1.0"
 authors = [{ name = "BlModded114" }]
 description = """
-Every container that has a loot enemy version spawns as one. /n
-Requires package loader by mopioid. /n
+Every container that has a loot enemy version spawns as one.
+Requires package loader by mopioid.
 Credit to mopioid for making the original text mod version before sdk mods existed.
 """
 dependencies = [
