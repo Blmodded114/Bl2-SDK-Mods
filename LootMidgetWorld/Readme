@@ -1,3 +1,4 @@
 Turns every container, that has a loot dude version, into a loot dude container.
 
-Requires package loader
+Requires package loader:
+https://bl-sdk.github.io/willow2-mod-db/mods/packageloader/
