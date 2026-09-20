@@ -8,7 +8,7 @@ Requires package loader by mopioid.
 Credit to mopioid for making the original text mod version before sdk mods existed.
 """
 dependencies = [
-  "BorderlandsPackageLoaderr >= 1.0",
+  "BorderlandsPackageLoader >= 1.0",
 ]
 
 [project.urls]
