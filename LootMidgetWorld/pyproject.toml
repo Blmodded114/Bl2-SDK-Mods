@@ -4,7 +4,7 @@ version = "1.1"
 authors = [{ name = "BlModded114" }]
 description = """
 Every container that has a loot enemy version spawns as one.
-Requires package loader by mopioid.
+Requires package loader by mopioid and command extensions by apple1417.
 Credit to mopioid for making the original text mod version before sdk mods existed.
 """
 dependencies = [
