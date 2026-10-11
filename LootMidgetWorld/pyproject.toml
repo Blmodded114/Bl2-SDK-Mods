@@ -9,6 +9,7 @@ Credit to mopioid for making the original text mod version before sdk mods exist
 """
 dependencies = [
   "package_loader >= 1.0",
+  "command_extensions >= 5.0"
 ]
 
 [project.urls]
