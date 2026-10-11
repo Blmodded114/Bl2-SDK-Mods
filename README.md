@@ -1,4 +1,4 @@
-The SDK mods I've made for Borderlands 2
+The SDK mods I've made for Willow2 Games
 
 # Loot Midget World
 ## Tags: Enemy
