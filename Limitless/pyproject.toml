@@ -5,9 +5,8 @@ authors = [{ name = "BlModded114" }]
 description = """
 You can customize how many points can go into skills, and how many skill points you gain per level.
 The increased points going into skills also applies to Class Mods.
-The possibilities are almost limitless
-
 The settings are applied when you save quit and go back in game.
+The possibilities are almost limitless
 """
 
 [project.urls]
