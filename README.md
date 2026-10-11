@@ -6,7 +6,6 @@ The SDK mods I've made for Borderlands 2
   - Every container that has a loot enemy version, will spawn as the loot enemy variant.
   ### Requirements
   - [Package Loader](https://bl-sdk.github.io/willow2-mod-db/mods/packageloader/)
-  - [CE](https://bl-sdk.github.io/willow2-mod-db/mods/command-extensions/)
 # Limitless
 ## Tags: Cheat
   ### Features
