@@ -17,6 +17,6 @@ Repository = "https://github.com/Blmodded114/Bl2-SDK-Mods.git"
 
 [tool.sdkmod]
 name = "Limitless"
-supported_games = ["BL2","TPS","AODK"]
+supported_games = ["BL2","TPS","AoDK"]
 download = "https://github.com/Blmodded114/Bl2-SDK-Mods/raw/refs/heads/main/Limitless/Limitless.sdkmod"
 license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
